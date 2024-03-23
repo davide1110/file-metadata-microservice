@@ -1,0 +1,32 @@
+
+body {
+    background-color:#dbf0d1;
+}
+* {
+    font-family:'Roboto',Helvetica,sans-serif;
+}
+.header-text {
+    text-align: center;
+}
+.metadata-form > form  {
+    text-align: center;
+}
+.metadata-form > form > input {
+    display: block;
+    align-content: center;
+    margin: 4px auto;
+    padding: 5px;
+}
+.metadata-form {
+    margin-top:5px;
+    border: 3px solid white;
+    border-radius: 10px;
+}
+
+button {
+    border: 1px solid white;
+    background-color: white;
+    color: green;
+    cursor: pointer;
+    border-radius: 6px;
+}
